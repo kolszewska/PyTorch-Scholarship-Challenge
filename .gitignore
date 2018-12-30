@@ -1,0 +1,15 @@
+# IDE
+.idea
+
+# Training
+runs
+*.log
+*.pt
+flower_data
+
+# Virtual env
+venv
+
+# Jupyter
+.ipynb_checkpoints
+
